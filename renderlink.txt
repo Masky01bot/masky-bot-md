@@ -1,0 +1,16 @@
+https://masky-bot-oev1.onrender.com/gqr@text=lovu.txt  'qr'
+https://masky-bot-oev1.onrender.com/news.json'news'
+https://masky-bot-oev1.onrender.com/lyrics@name=love%20me%20like%20you%20do.json  'lyrics'
+https://masky-bot-oev1.onrender.com/time@code=in.json  'time'
+https://masky-bot-oev1.onrender.com/calc@q=12345.json  'calculator'
+https://masky-bot-oev1.onrender.com/emix@q=.json  'emoji mix''-emix'
+https://masky-bot-oev1.onrender.com/emoji@q=.json  'emoji'
+
+
+https://github.com/Masky01bot/masky-bot-md.git
+
+
+
+ terminal = yarn add browser-id3-writer cheerio cookie file-type fluent-ffmpeg 
+form-data fs-extra google-tts-api googleapis got heroku-client jimp link-preview-js moment node-cron node-fetch node-webpmux pdfkit pg pino-pretty pm2 qrcode-reader qrcode-terminal sequelize sharp simple-git sqlite3 
+translate-google-api youtubei.js
